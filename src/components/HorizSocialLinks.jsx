@@ -12,7 +12,7 @@ const HorizSocialLinks = () => {
           <FaLinkedin size={30} />
         </>
       ),
-      href: "https://linkedin.com",
+      href: "https://www.linkedin.com/in/sanket-bandekar-2255a9169",
     },
     {
       id: 2,
@@ -21,7 +21,7 @@ const HorizSocialLinks = () => {
           <FaGithub size={30} />
         </>
       ),
-      href: "https://github.com/theyashpatel",
+      href: "https://github.com/sanketbandekar",
     },
     {
       id: 3,
@@ -30,7 +30,7 @@ const HorizSocialLinks = () => {
           <HiOutlineMail size={30} />
         </>
       ),
-      href: "mailto:foo@gmail.com",
+      href: "mailto:bandekarsanket@gmail.com",
     },
     {
       id: 4,
@@ -39,7 +39,7 @@ const HorizSocialLinks = () => {
           <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "/resume.pdf",
+      href: "/Resume.pdf",
 
       download: true,
     },

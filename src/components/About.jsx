@@ -44,8 +44,8 @@ const About = () => {
         </p>
         <p className="text-xl mt-5">
           I believe the skills I developed in 4 years of Engineering and working
-          as an intern define me and looking forward to implementing and
-          polishing them in any opportunity that I receive.
+          as an intern in various tech field define me and looking forward to
+          implementing and polishing them in any opportunity that I receive.
         </p>
       </div>
     </div>

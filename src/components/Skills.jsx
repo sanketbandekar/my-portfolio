@@ -77,8 +77,14 @@ const Skills = () => {
             Experience
           </p>
           <p className="py-6">
-            These are the few technologies I've worked with. Visit my github
-            link for more details
+            These are the few technologies I've worked with. Visit my github{" "}
+            <a
+              href="https://github.com/sanketbandekar"
+              className="duration-200 hover:text-blue-700 "
+            >
+              link{" "}
+            </a>
+            for more details
           </p>
         </div>
 
