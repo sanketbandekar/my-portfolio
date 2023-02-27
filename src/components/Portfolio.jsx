@@ -1,10 +1,11 @@
 import React from "react";
+
 import mern from "../assets/projects/memories.png";
 import chat from "../assets/projects/chat-app.png";
 import ecommerce from "../assets/projects/ecommerce.png";
-import f from "../assets/projects/f.jpg";
-import img1 from "../assets/projects/img1.png";
-import n from "../assets/projects/n.jpg";
+import boxOffice from "../assets/projects/img1.png";
+import nft from "../assets/projects/nft-code-app.png";
+import food from "../assets/projects/food-code-app.png";
 
 const Portfolio = () => {
   const portfolios = [
@@ -28,19 +29,19 @@ const Portfolio = () => {
     },
     {
       id: 4,
-      data: img1,
+      data: boxOffice,
       title: "Box Office App",
       link: "https://github.com/sanketbandekar/box-office",
     },
     {
       id: 5,
-      data: n,
+      data: nft,
       title: "NFT Marketplace App",
       link: "https://github.com/sanketbandekar/nft-demo-app",
     },
     {
       id: 6,
-      data: f,
+      data: food,
       title: "Food App",
       link: "https://github.com/sanketbandekar/react-native-restaurant-app",
     },
