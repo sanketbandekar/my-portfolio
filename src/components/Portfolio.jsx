@@ -24,7 +24,7 @@ const Portfolio = () => {
       id: 3,
       data: ecommerce,
       title: "Ecommerce App",
-      link: "https://github.com/sanketbandekar/ecommerce-app",
+      link: "https://github.com/sanketbandekar/lifestyle-store",
     },
     {
       id: 4,
